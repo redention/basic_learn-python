@@ -37,3 +37,6 @@ def test_generators():
             assert 0 <= random_number <= 10
         else:
             assert 10 <= random_number <= 20
+
+la=[1,2,3,4]
+print(la)
